@@ -42,8 +42,18 @@ https://arxiv.org/pdf/1801.10578.pdf
 ### Robustness Verification of Tree-based Models
 https://arxiv.org/pdf/1906.03849.pdf
  
+### Efficient Formal Safety Analysis of Neural Networks
+http://papers.nips.cc/paper/7873-efficient-formal-safety-analysis-of-neural-networks.pdf
 
+### A Game-Based Approximate Verification of Deep Neural Networks with Provable Guarantees
+https://arxiv.org/pdf/1807.03571.pdf
 
+https://github.com/TrustAI/DeepGame
+
+### DeepGO: Reachability Analysis of Deep Neural Networks with Provable Guarantees
+https://arxiv.org/abs/1805.02242
+
+https://github.com/TrustAI/DeepGO
 
 ## Related Topics
 * AI safety
@@ -51,5 +61,6 @@ https://arxiv.org/pdf/1906.03849.pdf
 * AI robustness
 * GAN defense and attack
 * Certification framework
+* https://github.com/dongyp13/Robust-and-Explainable-Machine-Learnings
 
 
