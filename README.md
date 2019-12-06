@@ -9,7 +9,9 @@ third-party organizations becomes important for both customers and the whole soc
 Data plays an unprecedented role in deep learning. It also unavoidably involve public issues, such as **privacy**, **ethics**, 
 **risk** and **safety**.
 
-## Certificate for Neural network 
+## Certification for Neural network 
+
+![Certification for Neural network](imgs/nn_certificate1.png)
 
 ### Overview
 IBM has done a great work on related topics. MIT and Oxford also have some related research.
@@ -33,6 +35,8 @@ https://arxiv.org/pdf/1811.00866.pdf
 https://github.com/locuslab/smoothing
 
 https://arxiv.org/abs/1902.02918
+
+[medium blog and video](https://medium.com/@MITIBMLab/cnn-cert-a-certified-measure-of-robustness-for-convolutional-neural-networks-fd2ff44c6807)
 
 ### CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks
 https://github.com/IBM/CNN-Cert
@@ -65,5 +69,4 @@ https://github.com/TrustAI/DeepGO
 * GAN defense and attack
 * Certification framework
 * https://github.com/dongyp13/Robust-and-Explainable-Machine-Learnings
-
 
