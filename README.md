@@ -24,6 +24,9 @@ https://github.com/IBM/AIX360
 
 [中文版](https://github.com/IBM/adversarial-robustness-toolbox/blob/master/README-cn.md)
 
+### PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach
+http://proceedings.mlr.press/v97/weng19a/weng19a.pdf
+
 ### CROWN: A Neural Network Verification Framework
 https://github.com/IBM/CROWN-Robustness-Certification
 
@@ -62,11 +65,26 @@ https://arxiv.org/abs/1805.02242
 
 https://github.com/TrustAI/DeepGO
 
+## Attack and Robustness
+### Robust-and-Explainable-machine-learning
+https://github.com/dongyp13/Robust-and-Explainable-Machine-Learnings
+
+### Is Robustness the Cost of Accuracy? A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
+https://arxiv.org/abs/1808.01688
+
+https://github.com/huanzhang12/Adversarial_Survey
+
+### AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks
+https://arxiv.org/abs/1805.11770
+
+https://github.com/IBM/Autozoom-Attack
+
+
 ## Related Topics
 * AI safety
 * Explainable/Interpretable AI (XAI)
 * AI robustness
 * GAN defense and attack
 * Certification framework
-* https://github.com/dongyp13/Robust-and-Explainable-Machine-Learnings
+
 
