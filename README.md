@@ -6,7 +6,7 @@ AI certification is a special point to view the booming research and application
 Considering the wide and rapidly increasing use of AI among all kinds of industry, a professional inspection and certification from 
 third-party organizations becomes important for both customers and the whole society.  
 
-Data plays an unprecedented role in deep learning. It also unavoidably involve public issues, such as **privacy**, **ethics**, 
+Data plays an unprecedented role in deep learning. It also unavoidably involves public issues, such as **privacy**, **ethics**, 
 **risk** and **safety**.
 
 ## Certification for Neural network 
