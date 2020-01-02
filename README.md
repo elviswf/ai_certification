@@ -8,6 +8,7 @@ AI certification
          * [Adversarial Robustness 360 Toolbox (ART)](#adversarial-robustness-360-toolbox-art)
          * [PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach](#proven-verifying-robustness-of-neural-networks-with-a-probabilistic-approach)
          * [CROWN: A Neural Network Verification Framework](#crown-a-neural-network-verification-framework)
+         * [Efficient Neural Network Robustness Certification with General Activation Functions](#efficient-neural-network-robustness-certification-with-general-activation-functions)
          * [Certified Adversarial Robustness via Randomized Smoothing](#certified-adversarial-robustness-via-randomized-smoothing)
          * [CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks](#cnn-cert-an-efficient-framework-for-certifying-robustness-of-convolutional-neural-networks)
          * [THE ROBUSTNESS OF NEURAL NETWORKS: AN EXTREME VALUE THEORY APPROACH](#the-robustness-of-neural-networks-an-extreme-value-theory-approach)
@@ -53,7 +54,7 @@ http://proceedings.mlr.press/v97/weng19a/weng19a.pdf
 ### CROWN: A Neural Network Verification Framework
 https://github.com/IBM/CROWN-Robustness-Certification
 
-Efficient Neural Network Robustness Certification with General Activation Functions
+### Efficient Neural Network Robustness Certification with General Activation Functions
 
 https://arxiv.org/pdf/1811.00866.pdf
 
