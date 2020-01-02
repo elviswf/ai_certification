@@ -1,7 +1,7 @@
 AI verification
 =================
 
-   * [AI certification](#ai-certification)
+   * [AI verification](#ai-certification)
       * [Certification for Neural network](#certification-for-neural-network)
          * [Overview](#overview)
          * [AI Explainability 360](#ai-explainability-360)
