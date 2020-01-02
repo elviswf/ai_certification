@@ -1,4 +1,4 @@
-AI certification
+AI verification
 =================
 
    * [AI certification](#ai-certification)
@@ -25,7 +25,7 @@ AI certification
 
  [中文版](README_cn.md)
  
-AI certification is a special point to view the booming research and applications of AI, especially deep learning.
+AI verification is a special point to view the booming research and applications of AI, especially deep learning.
 
 Considering the wide and rapidly increasing use of AI among all kinds of industry, a professional inspection and certification from 
 third-party organizations becomes important for both customers and the whole society.  
@@ -33,7 +33,7 @@ third-party organizations becomes important for both customers and the whole soc
 Data plays an unprecedented role in deep learning. It also unavoidably involves public issues, such as **privacy**, **ethics**, 
 **risk** and **safety**.
 
-## Certification for Neural network 
+## Verification for Neural network 
 
 ![Certification for Neural network](imgs/nn_certificate1.png)
 
